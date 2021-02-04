@@ -1,0 +1,34 @@
+h1 {
+  font-size: 35px;
+  margin-bottom: 25px;
+  color: rgb(255, 255, 255);
+}
+
+h2 {
+  text-align: left;
+}
+
+.skills {
+  text-align: left;
+}
+
+.box {
+  width: 450px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  font-family: "Century Gothic", sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: url(src-background.jpg) no-repeat;
+}
+
+a {
+  color: pink;
+}
